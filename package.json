@@ -1,0 +1,21 @@
+{
+  "name": "h3-websocket-listhen-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "jiti ./index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jiti": "^1.21.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "h3": "^1.11.1",
+    "listhen": "^1.7.2"
+  }
+}
